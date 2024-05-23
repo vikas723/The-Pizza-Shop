@@ -22,7 +22,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/the-pizza-shop.git
+   https://github.com/vikas723/The-Pizza-Shop.git
 
 
 ## Navigate to the project directory:
